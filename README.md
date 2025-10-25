@@ -1,5 +1,4 @@
-**📘 Overview
-**
+**📘 Overview**
 The Intelligent Response Evaluation System (XAI Grader) is an Explainable AI-driven assessment platform designed to automatically evaluate long or descriptive answers.
 It leverages OpenAI GPT-4, LangChain, and Streamlit to provide transparent, rubric-based grading along with detailed, structured feedback.
 Integrated with Google Sheets API for automated result management, it enables educators to perform large-scale, consistent, and explainable evaluations while reducing manual grading time.
